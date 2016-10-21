@@ -5,7 +5,7 @@ Um projeto simples de uma aplicação `Android` com o objetivo de explanar duas 
 
 Caso tenha interesse ou alguma dúvida nos nossos cursos e treinamentos, por favor, [deixe-nos saber](http://www.triadworks.com.br/contatos.html).
 
-Configurando o projeto e banco de dados.
+Configurando o projeto.
 ----------------------------------------
 
 Todos os detalhes sobre o projeto acesse o artigo relacionado a ele [aqui](http://www.triadworks.com.br/contatos.html).
