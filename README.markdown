@@ -14,8 +14,7 @@ Mais informações
 ----------------
 
 **TriadWorks**
-- http://www.triadworks.com.br
-- http://www.triadworks.com.br/servico.html
+- http://cursos.triadworks.com.br/
 
 **Handerson Frota**
 - Meu [blog](http://www.handersonfrota.com.br/)
