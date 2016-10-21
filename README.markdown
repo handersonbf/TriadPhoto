@@ -1,5 +1,5 @@
-APP Android para Imagens e Foto
-===============================
+APP Android para Imagens e Fotos
+================================
 
 Um projeto simples de uma aplicação `Android` com o objetivo de explanar duas features de manipulação de imagem e recurso do dispositivo, que são elas: Selecionar uma imagem do Álbum e usar a câmera do dispositivo e exibir na APP. Esse projeto foi constuído especificamente para o artigo no blog da TriadWorks e para somar conhecimento já adiquirido no curso de [Desenvolvimento de Aplicações Android da TriadWorks](http://cursos.triadworks.com.br/curso-android/).
 
