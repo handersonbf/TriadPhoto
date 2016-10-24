@@ -15,7 +15,7 @@ Mais informações
 
 **TriadWorks**
 - http://cursos.triadworks.com.br/
-- Blog: http://blog.triadworks.com.br
+- http://blog.triadworks.com.br
 
 **Handerson Frota**
 - Meu [blog](http://www.handersonfrota.com.br/)
