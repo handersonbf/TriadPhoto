@@ -8,13 +8,14 @@ Caso tenha interesse ou alguma dúvida nos nossos cursos e treinamentos, por fav
 Configurando o projeto.
 ----------------------------------------
 
-Todos os detalhes sobre o projeto acesse o artigo relacionado a ele [aqui](http://www.triadworks.com.br/contatos.html).
+Todos os detalhes sobre o projeto acesse o artigo relacionado a ele [aqui](http://blog.triadworks.com.br/album-de-fotos-no-android).
 
 Mais informações
 ----------------
 
 **TriadWorks**
 - http://cursos.triadworks.com.br/
+- Blog: http://blog.triadworks.com.br
 
 **Handerson Frota**
 - Meu [blog](http://www.handersonfrota.com.br/)
